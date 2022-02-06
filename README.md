@@ -1,6 +1,6 @@
 NO CODE, JUST DOCS!
 ==
-The code in private repository!
+The Code in Private Repository!
 
 If you want it, please contact me via [m18852658169_1@163.com]()
 
