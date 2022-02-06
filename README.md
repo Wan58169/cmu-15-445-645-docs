@@ -1,5 +1,3 @@
-# cmu-15-445-645-docs
-
 NO CODE, JUST DOCS!
 ==
 The code in private repository!
