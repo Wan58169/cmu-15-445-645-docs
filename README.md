@@ -2,7 +2,7 @@ NO CODE, JUST DOCS!
 ==
 The Code in Private Repository!
 
-If You Want It, Please Contact ME Via [m18852658169_1@163.com]()
+If You Want It, Please Contact Me Via [m18852658169_1@163.com]()
 
 OFFICIAL WEBSITE
 ==
