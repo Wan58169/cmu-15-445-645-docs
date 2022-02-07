@@ -3,7 +3,7 @@
 因为这是CMU数据库课程的缘故，所以不方便透露代码！
 只提供了lab的笔记，如果需要参考代码的话，请通过[m18852658169_1@163.com]()与我联系！
 ## RELATED WEBSITE
-1. 官网：https://15445.courses.cs.cmu.edu/fall2020/assignments.html
+1. `lab`官网：https://15445.courses.cs.cmu.edu/fall2020/assignments.html
 2. `B+ Tree`可视化：https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 3. `.dot`可视化：http://dreampuf.github.io/GraphvizOnline/
 ## PROJECTS
