@@ -5,7 +5,7 @@
 + 实现数据库的查询功能，即补充`executor`的核心代码`Init()`和`Next()`
   1. `Access Methods`：*seq_scan_executor*
   2. `Modifications`：*insert_executor*, *delete_executor*, *update_executor*
-  3. `Miscellaneous`：*nested_loop_join_executor *
+  3. `Miscellaneous`：*nested_loop_join_executor*
 
 ## SRC
 
