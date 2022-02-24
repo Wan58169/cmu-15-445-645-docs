@@ -9,7 +9,7 @@
 
 ## TIPS
 
-+ [PROJECT #1](PROJECT #1 - BUFFER POOL.md)中的`page`在[PROJECT #2](PROJECT #2 - B+ TREE.md)中被视为`BPlusTreePage`，用来存放`Tuples`。同时`BPlusTreePage`又分为两种：`BPlusTreeLeafPage`和`BPlusTreeInternalPage`
++ [PROJECT #1]()中的`page`在[PROJECT #2]()中被视为`BPlusTreePage`，用来存放`Tuples`。同时`BPlusTreePage`又分为两种：`BPlusTreeLeafPage`和`BPlusTreeInternalPage`
 + `BPlusTreePage`里有`size`个*slot*，每个*slot*里面存放一个`Tuple`
 + `B+ Tree`较为重要的是其`MaxSize`和`MinSize`，`Split`操作是以`MaxSize`为基准的，而`Redistribute`和`Coalesce`操作都是以`MinSize`为基准的
 
