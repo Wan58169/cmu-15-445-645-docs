@@ -10,6 +10,6 @@ https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
 ### .dot可视化
 http://dreampuf.github.io/GraphvizOnline/
 ## PROJECTS
-+ [PROJECT #1 - BUFFER POOL MANAGER](https://github.com/Wan58169/cmu-15-445-645-docs/blob/master/PROJECT%20%231%20-%20BUFFER%20POOL.md) ✔️
-+ [PROJECT #2 - B+ TREE](https://github.com/Wan58169/cmu-15-445-645-docs/blob/master/PROJECT%20%232%20-%20B%2B%20TREE.md) ✔️
-+ [PROJECT #3 - QUERY EXECUTOR](https://github.com/Wan58169/cmu-15-445-645-docs/blob/master/PROJECT%20%233%20-%20QUERY%20EXECUTION.md) ✔️
++ [x] [PROJECT #1 - BUFFER POOL MANAGER](https://github.com/Wan58169/cmu-15-445-645-docs/blob/master/PROJECT%20%231%20-%20BUFFER%20POOL.md)
++ [x] [PROJECT #2 - B+ TREE](https://github.com/Wan58169/cmu-15-445-645-docs/blob/master/PROJECT%20%232%20-%20B%2B%20TREE.md)
++ [x] [PROJECT #3 - QUERY EXECUTOR](https://github.com/Wan58169/cmu-15-445-645-docs/blob/master/PROJECT%20%233%20-%20QUERY%20EXECUTION.md)
